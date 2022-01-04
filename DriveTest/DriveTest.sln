@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveTest", "DriveTest\DriveTest.csproj", "{6B958D86-D817-486F-A7DA-071C87E25A94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B958D86-D817-486F-A7DA-071C87E25A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B958D86-D817-486F-A7DA-071C87E25A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B958D86-D817-486F-A7DA-071C87E25A94}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6B958D86-D817-486F-A7DA-071C87E25A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B958D86-D817-486F-A7DA-071C87E25A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B958D86-D817-486F-A7DA-071C87E25A94}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61BA7AD4-4B06-41E7-822B-D42280F28610}
+	EndGlobalSection
+EndGlobal
